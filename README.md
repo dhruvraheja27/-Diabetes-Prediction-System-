@@ -5,6 +5,8 @@ A professional **Machine Learning Diabetes Prediction System** developed using P
  Diabetes Prediction System – GUI
  
 ![Diabetes Prediction System](diabetes_gui.png)
+
+
 ![Diabetes Prediction System](diabete_Gui.png)
 
 
